@@ -25,6 +25,18 @@ The goal is not just to read theory but to **understand**, **practice**, and **d
 - Anonymous and arrow functions
 - Scope and closures
 
+### `Chapter_4` — Object-Oriented Programming (OOP)
+- Objects and the `this` keyword
+- Nested objects and arrays
+- Copying and comparing objects
+- Object methods and property checks
+- Objects in functions
+- Constructor functions
+- Prototypes and prototype inheritance
+- `Object.create()` and property descriptors
+- Getters and setters
+- Destructuring
+
 ---
 
 ## 🧪 My Approach
@@ -40,9 +52,8 @@ The goal is not just to read theory but to **understand**, **practice**, and **d
 - [x] Chapter 1 — Introduction
 - [x] Chapter 2 — Basics
 - [x] Chapter 3 — Functions
-- [ ] Chapter 4 — OOP
+- [x] Chapter 4 — Object-Oriented Programming (OOP)
 - [ ] Chapter 5 — Classes
-- *(more coming soon)*
 
 ---
 
