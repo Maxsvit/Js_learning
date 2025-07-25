@@ -8,11 +8,13 @@ The goal is not just to read theory but to **understand**, **practice**, and **d
 ## 📂 Current Chapters
 
 ### `Chapter_1` — Introduction to JavaScript
+
 - What is JavaScript
 - How to run JS in a browser
 - Your first script
 
 ### `Chapter_2` — JavaScript Basics
+
 - Variables (`var`, `let`, `const`)
 - Data types
 - Arithmetic and logical operations
@@ -20,12 +22,14 @@ The goal is not just to read theory but to **understand**, **practice**, and **d
 - Loops (`for`, `while`, `do...while`)
 
 ### `Chapter_3` — Functional Programming
+
 - Function declarations
 - Parameters and return values
 - Anonymous and arrow functions
 - Scope and closures
 
 ### `Chapter_4` — Object-Oriented Programming (OOP)
+
 - Objects and the `this` keyword
 - Nested objects and arrays
 - Copying and comparing objects
@@ -36,6 +40,14 @@ The goal is not just to read theory but to **understand**, **practice**, and **d
 - `Object.create()` and property descriptors
 - Getters and setters
 - Destructuring
+
+### `Chapter_5` — OOP, Classes
+
+- Classes
+- Private Fields and methods
+- Static Fields and methods
+- Properties and access methods
+- Inheritance
 
 ---
 
@@ -53,7 +65,7 @@ The goal is not just to read theory but to **understand**, **practice**, and **d
 - [x] Chapter 2 — Basics
 - [x] Chapter 3 — Functions
 - [x] Chapter 4 — Object-Oriented Programming (OOP)
-- [ ] Chapter 5 — Classes
+- [x] Chapter 5 — Classes
 
 ---
 
