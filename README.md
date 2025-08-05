@@ -49,6 +49,49 @@ The goal is not just to read theory but to **understand**, **practice**, and **d
 - Properties and access methods
 - Inheritance
 
+### `Chapter_6` — Arrays
+
+- Creating arrays and the `Array` object
+- Arrays and the spread operator
+- Array operations
+- Array inheritance
+
+### `Chapter_7` — Strings and Regular Expressions
+
+- Strings and the `String` object
+- String templates
+- The `RegExp` object
+- Regular expression syntax
+- Quantifiers in regular expressions
+- Searching within strings
+- Groups in regular expressions
+- Using regular expressions in `String` methods
+
+### `Chapter_8` — Error Handling
+
+- `try...catch...finally` structure
+- Throwing errors with `throw`
+- Types of errors
+- Error handling and the call stack
+- Isomorphic error handling
+
+### `Chapter_9` — Built-in Objects
+
+- `Date` object — working with dates
+- `Math` object — mathematical operations
+- `Number` object
+- Symbols
+- Proxy
+
+### `Chapter_10` — Collections and Iterators
+
+- Iterators
+- Generators
+- `Set` collections
+- `Map` collections
+- `WeakSet`
+- `WeakMap`
+
 ---
 
 ## 🧪 My Approach
@@ -66,6 +109,11 @@ The goal is not just to read theory but to **understand**, **practice**, and **d
 - [x] Chapter 3 — Functions
 - [x] Chapter 4 — Object-Oriented Programming (OOP)
 - [x] Chapter 5 — Classes
+- [x] Chapter 6 — Arrays
+- [x] Chapter 7 — Strings and Regular Expressions
+- [x] Chapter 8 — Error Handling
+- [x] Chapter 9 — Built-in Objects
+- [x] Chapter 10 — Collections and Iterators
 
 ---
 
