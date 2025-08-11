@@ -92,6 +92,18 @@ The goal is not just to read theory but to **understand**, **practice**, and **d
 - `WeakSet`
 - `WeakMap`
 
+### `Chapter_11` — Working with the DOM
+
+- Intro to the DOM
+- `document` object properties
+- Finding elements on a page (selectors)
+- `Node` object and DOM traversal
+- Elements
+- Creating, inserting, and removing elements
+- Managing element attributes
+- Working with styles and CSS classes
+- Creating your own HTML element
+
 ---
 
 ## 🧪 My Approach
@@ -114,6 +126,7 @@ The goal is not just to read theory but to **understand**, **practice**, and **d
 - [x] Chapter 8 — Error Handling
 - [x] Chapter 9 — Built-in Objects
 - [x] Chapter 10 — Collections and Iterators
+- [x] Chapter 11 — Working with the DOM
 
 ---
 

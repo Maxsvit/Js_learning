@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="header">Home Page</h1>
+    <p>First </p>
+    <p>Second </p>
+<script>
+    console.log(document.documentElement);
+
+     const headerElement = document.getElementById("header");
+     console.log("Text: ", headerElement.innerText); // Text:  Home Page
+     const paragraphs = document.getElementsByTagName("p");
+     for (p of paragraphs) {
+                console.log(p.innerText);   // paragraphs
+            }
+    const p = document.getElementsByTagName("p")[0];
+    console.log(p.innerText);
+     const elems = document.querySelectorAll(".text p");
+        for (elem of elems) {
+            console.log(elem.innerText);
+        }
+    const htmlEl = document.getElementsByTagName("html")[0];
+    const parentElem = htmlEl.parentElement;
+    const parentNode = htmlEl.parentNode;
+    console.log(parentElem);    // null
+    console.log(parentNode);    // document
+
+    const header = document.getElementById("header");
+    console.log(header.tagName);  // H1
+
+    const header2 = document.createElement("h1");  
+    console.log(header);  // <h1></h1>
+    const oldNode = article.firstElementChild;
+    const newNode = document.createElement("h2")
+    article.replaceChild(newNode, oldNode);
+    const article = document.getElementById("article");
+        while (article.firstChild) {
+            article.removeChild(article.firstChild);
+        }
+
+    const element = document.getElementById("home");
+        console.log(element.getAttribute("id"));    // home
+        console.log(element.getAttribute("class")); // link
+        console.log(element.getAttribute("href"));  // index.html
+
+    const header3 = document.getElementById("header");
+    console.log(header.style.color);    
+    header.style.color = "navy";
+    console.log(header.style.color);
+</script>
+</body>
+</html>
